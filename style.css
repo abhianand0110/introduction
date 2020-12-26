@@ -1,0 +1,21 @@
+body {background: url(as3.jpg);}
+h1, h2, h3, h4, h5 {
+  border-bottom: 1px solid #ccc;
+  color: #3F51B6;
+  padding-bottom: 20px
+}
+
+.container {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  background: url(as2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.listFlex {display: inline-flex; justify-content: space-between;}
+
+img {
+  width: 40%;
+    height: 50%;
+}
